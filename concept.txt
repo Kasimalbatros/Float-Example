@@ -1,0 +1,7 @@
+
+Float:left    ----> Focus on Float and Width only. These actually create the things.
+width:25%
+
+
+background-color:orange;   --->give orangecolor in background
+margin:10px;   -->create 10px space all the sides of content or imges

@@ -1,0 +1,18 @@
+.one{
+float:left;
+width:25%;
+background-color: orange;
+margin:10px;
+}
+.two{
+  float:left;
+  width:25%;
+  background-color: orange;
+  margin:10px;
+}
+.three{
+  float:left;
+  width:40%;
+  background-color: orange;
+  margin:10px;
+}
